@@ -1,0 +1,114 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+    padding-top: 40px;
+    margin-top: 100px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    margin-bottom: 30px;
+}
+.green-color{
+    color: green;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 10%;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+  
+}
+
+.half-width img{
+    width: 70%;
+    margin-top: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(54, 160, 68));
+    padding: 10px 15px;
+    color: white;
+    font-weight: 700;
+    border-radius: 50px;
+}
+.About-Me{
+    background-image: url(images/F1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+} 
+
+.experience-area{
+    text-align: center;
+    margin-top: -100px;
+
+}
+.experience-item{
+    width: 33%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    border-radius: 25px;
+
+}
+.experience-item img{
+    width: 100%;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white; 
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+/* nayem */
+.box{
+    display:flex;
+    margin-left:120px;
+    margin-right:120px;
+    box-shadow: 10px 10px 40px #d4e4e4;
+    border-radius:25px;
+    margin-bottom: 50px;
+  }
+  .middle{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 30%;
+    padding-left: 130px;
+    
+  }
+   
+  form {
+    border: 3px solid #f1f1f1;
+    font-family: Arial;
+  }
+  
+  .container {
+    padding-left: 130px;
+    padding: 20px;
+    background-color: #f1f1f1;
+  }
+  .container{
+    text-align: center;
+  }
+  
+  input[type=checkbox] {
+    margin-top: 16px;
+  }
+  .submit{
+      text-align: center;
+  }
+  
+  
