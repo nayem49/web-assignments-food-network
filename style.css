@@ -55,7 +55,7 @@ p{
     width: 33%;
     margin-left: 2%;
     margin-right: 2%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 50px black;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 15px;
@@ -65,20 +65,12 @@ p{
 .experience-item img{
     width: 100%;
 }
-footer {
-    text-align: center;
-    background-color: black;
-    color: white; 
-    padding-bottom: 50px;
-    padding-top: 50px;
 
-}
-/* nayem */
 .box{
     display:flex;
     margin-left:120px;
     margin-right:120px;
-    box-shadow: 10px 10px 40px #d4e4e4;
+    box-shadow: 10px 10px 30px black;
     border-radius:25px;
     margin-bottom: 50px;
   }
@@ -111,4 +103,10 @@ footer {
       text-align: center;
   }
   
-  
+  footer {
+    text-align: center;
+    background-color: black;
+    color: white; 
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
